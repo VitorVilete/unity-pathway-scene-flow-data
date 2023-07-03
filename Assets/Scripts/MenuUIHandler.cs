@@ -50,7 +50,6 @@ public class MenuUIHandler : MonoBehaviour
         #else
                 Application.Quit(); // original code to quit Unity player
         #endif
-        Input.GetButtonDown()
     }
 
 }
